@@ -1,5 +1,5 @@
 # Python Immersion. Seminar 1 
-## Homework
+### *Homework*
 
 ---
 ### Task 1
