@@ -14,7 +14,7 @@ def bag_equips(things: dict, max_weight: float):
 
     for i in range(len(things)):
         # установим минимальное количество вещей = 3
-        for combo in combos(things.items(), i + 1):
+        for combo in combos(things.items(), i + 3):
             # среди возможных комбинаций отсечём те, что не проходят по весу
             if sum(dict(combo).values()) <= max_weight:
                 result_list.append(dict(combo))
