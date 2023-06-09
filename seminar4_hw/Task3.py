@@ -3,6 +3,9 @@
 # на отдельные операции — функции. Дополнительно сохраняйте
 # все операции поступления и снятия средств в список.
 
+# Исходное задание из семинара 2:
+# https://github.com/EvgeniyLukashevich/PythonImmersion/blob/main/seminar2_hw/lesson_work/lesson_task6.py
+
 
 def welcome_message(balance):
     print(f"Ваш баланс: {balance}")

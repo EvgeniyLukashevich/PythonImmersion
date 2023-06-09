@@ -33,7 +33,6 @@ def transpose_matrix(matrix: list) -> list:
     :param matrix: матрица, которую нужно транспонировать
     :return: транспонированная матрица
     """
-
     # Получаем количество строк и столбцов матрицы
     rows = len(matrix)
     cols = len(matrix[0])
