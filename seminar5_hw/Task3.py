@@ -4,7 +4,7 @@
 def fibonacci_generator(n: int):
     """
     Метод, генерирующий числа Фибоначчи до указанного в аргументе количества чисел
-    :param n: количество сгенерируемых чисел
+    :param n: количество генерируемых чисел
     :return: число Фибоначчи, соответствующее текущей итерации
     """
     a = 0
@@ -12,8 +12,7 @@ def fibonacci_generator(n: int):
     step = 1
     while step <= n:
         yield a
-        a = b
-        b = a + b
+        a, b = b, a + b
         step += 1
 
 
