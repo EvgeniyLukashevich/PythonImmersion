@@ -7,7 +7,7 @@ from random import randint as ri
 from sys import argv
 
 
-# Пропишем в функции значения "по умолчанию" для аргументов
+# Пропишем в функции значения "по умолчанию" для аргументов.
 def guess_number_console(tries_count: int = 10, lower_limit: int = 0, upper_limit: int = 100) -> bool:
     bingo = ri(lower_limit, upper_limit)
 
