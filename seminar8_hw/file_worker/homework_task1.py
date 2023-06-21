@@ -48,7 +48,7 @@ def save_directory_info(directory: str) -> None:
     with open("directory_info.json", "w", encoding='utf-8') as f:
         json.dump(get_directory_info(directory), f, indent=4)
 
-    with open("directory_info.csv", "w", encoding='utf-8') as f:
+    with open("directory_info.csv", "w", newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
         writer.writerow(["name", "path", "type", "size"])
         for item in get_directory_info(directory):
