@@ -1,0 +1,272 @@
+[
+    {
+        "name": "file_worker",
+        "path": "..\\seminar7_hw\\file_worker",
+        "type": "directory",
+        "size": 26719
+    },
+    {
+        "name": "hw_task1_dir",
+        "path": "..\\seminar7_hw\\hw_task1_dir",
+        "type": "directory",
+        "size": 2256
+    },
+    {
+        "name": "lesson_task6_dir",
+        "path": "..\\seminar7_hw\\lesson_task6_dir",
+        "type": "directory",
+        "size": 2256
+    },
+    {
+        "name": "lesson_task1",
+        "path": "..\\seminar7_hw\\lesson_task1",
+        "type": "file",
+        "size": 122
+    },
+    {
+        "name": "lesson_task2",
+        "path": "..\\seminar7_hw\\lesson_task2",
+        "type": "file",
+        "size": 48
+    },
+    {
+        "name": "lesson_task3",
+        "path": "..\\seminar7_hw\\lesson_task3",
+        "type": "file",
+        "size": 145
+    },
+    {
+        "name": "main.py",
+        "path": "..\\seminar7_hw\\main.py",
+        "type": "file",
+        "size": 851
+    },
+    {
+        "name": "README.md",
+        "path": "..\\seminar7_hw\\README.md",
+        "type": "file",
+        "size": 1785
+    },
+    {
+        "name": "__pycache__",
+        "path": "..\\seminar7_hw\\file_worker\\__pycache__",
+        "type": "directory",
+        "size": 14466
+    },
+    {
+        "name": "homework_task1.py",
+        "path": "..\\seminar7_hw\\file_worker\\homework_task1.py",
+        "type": "file",
+        "size": 1844
+    },
+    {
+        "name": "lesson_task1.py",
+        "path": "..\\seminar7_hw\\file_worker\\lesson_task1.py",
+        "type": "file",
+        "size": 1183
+    },
+    {
+        "name": "lesson_task2.py",
+        "path": "..\\seminar7_hw\\file_worker\\lesson_task2.py",
+        "type": "file",
+        "size": 2248
+    },
+    {
+        "name": "lesson_task3.py",
+        "path": "..\\seminar7_hw\\file_worker\\lesson_task3.py",
+        "type": "file",
+        "size": 2038
+    },
+    {
+        "name": "lesson_task4.py",
+        "path": "..\\seminar7_hw\\file_worker\\lesson_task4.py",
+        "type": "file",
+        "size": 1693
+    },
+    {
+        "name": "lesson_task5.py",
+        "path": "..\\seminar7_hw\\file_worker\\lesson_task5.py",
+        "type": "file",
+        "size": 1190
+    },
+    {
+        "name": "lesson_task6.py",
+        "path": "..\\seminar7_hw\\file_worker\\lesson_task6.py",
+        "type": "file",
+        "size": 1696
+    },
+    {
+        "name": "__init__.py",
+        "path": "..\\seminar7_hw\\file_worker\\__init__.py",
+        "type": "file",
+        "size": 361
+    },
+    {
+        "name": "homework_task1.cpython-311.pyc",
+        "path": "..\\seminar7_hw\\file_worker\\__pycache__\\homework_task1.cpython-311.pyc",
+        "type": "file",
+        "size": 1268
+    },
+    {
+        "name": "lesson_task1.cpython-311.pyc",
+        "path": "..\\seminar7_hw\\file_worker\\__pycache__\\lesson_task1.cpython-311.pyc",
+        "type": "file",
+        "size": 1245
+    },
+    {
+        "name": "lesson_task2.cpython-311.pyc",
+        "path": "..\\seminar7_hw\\file_worker\\__pycache__\\lesson_task2.cpython-311.pyc",
+        "type": "file",
+        "size": 4425
+    },
+    {
+        "name": "lesson_task3.cpython-311.pyc",
+        "path": "..\\seminar7_hw\\file_worker\\__pycache__\\lesson_task3.cpython-311.pyc",
+        "type": "file",
+        "size": 2369
+    },
+    {
+        "name": "lesson_task4.cpython-311.pyc",
+        "path": "..\\seminar7_hw\\file_worker\\__pycache__\\lesson_task4.cpython-311.pyc",
+        "type": "file",
+        "size": 1593
+    },
+    {
+        "name": "lesson_task5.cpython-311.pyc",
+        "path": "..\\seminar7_hw\\file_worker\\__pycache__\\lesson_task5.cpython-311.pyc",
+        "type": "file",
+        "size": 651
+    },
+    {
+        "name": "lesson_task6.cpython-311.pyc",
+        "path": "..\\seminar7_hw\\file_worker\\__pycache__\\lesson_task6.cpython-311.pyc",
+        "type": "file",
+        "size": 2331
+    },
+    {
+        "name": "__init__.cpython-311.pyc",
+        "path": "..\\seminar7_hw\\file_worker\\__pycache__\\__init__.cpython-311.pyc",
+        "type": "file",
+        "size": 584
+    },
+    {
+        "name": "1bq8wC.png",
+        "path": "..\\seminar7_hw\\hw_task1_dir\\1bq8wC.png",
+        "type": "file",
+        "size": 221
+    },
+    {
+        "name": "ai_hw_task1_003.md",
+        "path": "..\\seminar7_hw\\hw_task1_dir\\ai_hw_task1_003.md",
+        "type": "file",
+        "size": 245
+    },
+    {
+        "name": "GdmljbdW.png",
+        "path": "..\\seminar7_hw\\hw_task1_dir\\GdmljbdW.png",
+        "type": "file",
+        "size": 216
+    },
+    {
+        "name": "Go_hw_task1_000.md",
+        "path": "..\\seminar7_hw\\hw_task1_dir\\Go_hw_task1_000.md",
+        "type": "file",
+        "size": 247
+    },
+    {
+        "name": "gSbhrR.png",
+        "path": "..\\seminar7_hw\\hw_task1_dir\\gSbhrR.png",
+        "type": "file",
+        "size": 248
+    },
+    {
+        "name": "HzAnCw.png",
+        "path": "..\\seminar7_hw\\hw_task1_dir\\HzAnCw.png",
+        "type": "file",
+        "size": 216
+    },
+    {
+        "name": "jC_hw_task1_001.md",
+        "path": "..\\seminar7_hw\\hw_task1_dir\\jC_hw_task1_001.md",
+        "type": "file",
+        "size": 199
+    },
+    {
+        "name": "l12UF.png",
+        "path": "..\\seminar7_hw\\hw_task1_dir\\l12UF.png",
+        "type": "file",
+        "size": 211
+    },
+    {
+        "name": "qv_hw_task1_002.md",
+        "path": "..\\seminar7_hw\\hw_task1_dir\\qv_hw_task1_002.md",
+        "type": "file",
+        "size": 245
+    },
+    {
+        "name": "VY2q.png",
+        "path": "..\\seminar7_hw\\hw_task1_dir\\VY2q.png",
+        "type": "file",
+        "size": 208
+    },
+    {
+        "name": "1bq8wC.png",
+        "path": "..\\seminar7_hw\\lesson_task6_dir\\1bq8wC.png",
+        "type": "file",
+        "size": 221
+    },
+    {
+        "name": "bKGowpt.txt",
+        "path": "..\\seminar7_hw\\lesson_task6_dir\\bKGowpt.txt",
+        "type": "file",
+        "size": 247
+    },
+    {
+        "name": "eCjCc.txt",
+        "path": "..\\seminar7_hw\\lesson_task6_dir\\eCjCc.txt",
+        "type": "file",
+        "size": 199
+    },
+    {
+        "name": "GdmljbdW.png",
+        "path": "..\\seminar7_hw\\lesson_task6_dir\\GdmljbdW.png",
+        "type": "file",
+        "size": 216
+    },
+    {
+        "name": "gSbhrR.png",
+        "path": "..\\seminar7_hw\\lesson_task6_dir\\gSbhrR.png",
+        "type": "file",
+        "size": 248
+    },
+    {
+        "name": "HzAnCw.png",
+        "path": "..\\seminar7_hw\\lesson_task6_dir\\HzAnCw.png",
+        "type": "file",
+        "size": 216
+    },
+    {
+        "name": "l12UF.png",
+        "path": "..\\seminar7_hw\\lesson_task6_dir\\l12UF.png",
+        "type": "file",
+        "size": 211
+    },
+    {
+        "name": "Riqv.txt",
+        "path": "..\\seminar7_hw\\lesson_task6_dir\\Riqv.txt",
+        "type": "file",
+        "size": 245
+    },
+    {
+        "name": "VY2q.png",
+        "path": "..\\seminar7_hw\\lesson_task6_dir\\VY2q.png",
+        "type": "file",
+        "size": 208
+    },
+    {
+        "name": "XIai.txt",
+        "path": "..\\seminar7_hw\\lesson_task6_dir\\XIai.txt",
+        "type": "file",
+        "size": 245
+    }
+]

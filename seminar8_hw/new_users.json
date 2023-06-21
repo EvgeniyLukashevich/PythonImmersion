@@ -1,0 +1,74 @@
+[
+  {
+    "level": 1,
+    "id": "0000000010",
+    "name": "Alice",
+    "hash": "a19cdf3f65ceccc8563e6c5da655c8db"
+  },
+  {
+    "level": 2,
+    "id": "0000000001",
+    "name": "Alex",
+    "hash": "0bb0841eae974a07e629d06a75e8847d"
+  },
+  {
+    "level": 2,
+    "id": "0000000003",
+    "name": "Nick",
+    "hash": "e0b8c6ddd590326f93b7de7220d6b666"
+  },
+  {
+    "level": 2,
+    "id": "0000000009",
+    "name": "Shepard",
+    "hash": "8cca6afb0b607a68a9b712c4e9ccac48"
+  },
+  {
+    "level": 3,
+    "id": "0000000008",
+    "name": "Luk",
+    "hash": "c7b46f5c6e5bce976bdc417578663cb5"
+  },
+  {
+    "level": 4,
+    "id": "0000000033",
+    "name": "Trinity",
+    "hash": "6715fdb407e66f58a14dda3890b3453d"
+  },
+  {
+    "level": 4,
+    "id": "0000000011",
+    "name": "Rat",
+    "hash": "eb0061e8113b03f6f91dfd1642ce5001"
+  },
+  {
+    "level": 5,
+    "id": "0000000002",
+    "name": "Kate",
+    "hash": "3899e23ebbb18ed087e91840fb72c9fc"
+  },
+  {
+    "level": 5,
+    "id": "0000000007",
+    "name": "Neo",
+    "hash": "c02f08f330f0a623018383a2f2b2b14a"
+  },
+  {
+    "level": 6,
+    "id": "0000000099",
+    "name": "Chubaka",
+    "hash": "d865b7f0aff7eb09f3e60668a9678918"
+  },
+  {
+    "level": 7,
+    "id": "0000000004",
+    "name": "R2d2",
+    "hash": "c8ba2a66d5d5573574afe2a7cbd2c781"
+  },
+  {
+    "level": 7,
+    "id": "0000000005",
+    "name": "H3po",
+    "hash": "d6029d8cd9c28817469ee45aa1f7cd03"
+  }
+]
