@@ -17,7 +17,7 @@ class Matrix:
     def __eq__(self, other):
         """Метод сравнения матриц на предмет их равенство (истина, если размеры матриц совпадают)"""
         if isinstance(other, Matrix):
-            return len(self._matrix) == len(other._matrix) and len(self._matrix[0]) == len(other._matrix[0])
+            return len(self._matrix) * len(self._matrix[0]) == len(other._matrix) * len(other._matrix[0])
         else:
             return False
 
@@ -26,25 +26,25 @@ class Matrix:
 
     def __lt__(self, other):
         if isinstance(other, Matrix):
-            return len(self._matrix) < len(other._matrix)
+            return len(self._matrix) * len(self._matrix[0]) < len(other._matrix) * len(other._matrix[0])
         else:
             return False
 
     def __gt__(self, other):
         if isinstance(other, Matrix):
-            return len(self._matrix) > len(other._matrix)
+            return len(self._matrix) * len(self._matrix[0]) > len(other._matrix) * len(other._matrix[0])
         else:
             return False
 
     def __le__(self, other):
         if isinstance(other, Matrix):
-            return len(self._matrix) <= len(other._matrix)
+            return len(self._matrix) * len(self._matrix[0]) <= len(other._matrix) * len(other._matrix[0])
         else:
             return False
 
     def __ge__(self, other):
         if isinstance(other, Matrix):
-            return len(self._matrix) >= len(other._matrix)
+            return len(self._matrix) * len(self._matrix[0]) >= len(other._matrix) * len(other._matrix[0])
         else:
             return False
 
