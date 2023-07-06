@@ -6,4 +6,4 @@ class RectangleSideTypeException(RectangleSideException):
         super().__init__(side)
 
     def __str__(self):
-        return super().__str__() + f"Необходимо ввести данные типа int\n"
+        return super().__str__() + f"Необходимо ввести данные типа int или float\n"
