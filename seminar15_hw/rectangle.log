@@ -1,0 +1,13 @@
+INFO ; module_name:homework.rectangle ; line_number:36 ; message:Прямоугольник успешно создан ; 2023-07-10 01:05:11
+INFO ; module_name:__main__ ; line_number:27 ; message:Прямоугольник успешно создан (2023-07-10 01:05:11)
+INFO ; module_name:homework.rectangle ; line_number:56 ; message:Свойства прямоугольника выведены в консоль ; 2023-07-10 01:05:11
+INFO ; module_name:homework.rectangle ; line_number:43 ; message:Вычислен периметр прямоугольника ; 2023-07-10 01:05:11
+INFO ; module_name:homework.rectangle ; line_number:50 ; message:Вычислена площадь прямоугольника ; 2023-07-10 01:05:11
+ERROR ; module_name:__main__ ; line_number:22 ; message:Ошибка ввода аргумента (2023-07-10 01:06:31)
+ERROR ; module_name:homework.rectangle ; line_number:30 ; message:Введено отрицательное значение для ширины прямоугольника ; 2023-07-10 01:07:02
+ERROR ; module_name:__main__ ; line_number:30 ; message:Введен отрицательный аргумент (2023-07-10 01:07:02)
+INFO ; module_name:homework.rectangle ; line_number:36 ; message:Прямоугольник успешно создан ; 2023-07-10 01:07:59
+INFO ; module_name:__main__ ; line_number:27 ; message:Прямоугольник успешно создан (2023-07-10 01:07:59)
+INFO ; module_name:homework.rectangle ; line_number:56 ; message:Свойства прямоугольника выведены в консоль ; 2023-07-10 01:07:59
+INFO ; module_name:homework.rectangle ; line_number:43 ; message:Вычислен периметр прямоугольника ; 2023-07-10 01:07:59
+INFO ; module_name:homework.rectangle ; line_number:50 ; message:Вычислена площадь прямоугольника ; 2023-07-10 01:07:59
